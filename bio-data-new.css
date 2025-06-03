@@ -1,0 +1,233 @@
+
+.name {
+    color:aliceblue;
+    border: 1pt solid;
+    font-family: 'Courier New', monospace;
+    margin: auto;
+    padding: 1pt;
+}
+.gender {
+    color:antiquewhite;
+    border-collapse: 2pt double;
+    font-family: 'Courier New', Courier;
+    margin-left: 1%;
+    padding-left: 2pt;
+}
+.date{
+    color: aqua;
+    border-spacing: 3pt ridge;
+    font-family: 'Courier New';
+    margin-right: 2%;
+    padding-right:  3pt; ;
+}
+.place{
+    color: aquamarine;
+    border-style: dashed;
+    font-family: 'Franklin Gothic Medium';
+    margin-top: 3%;
+    padding-top: 4pt;
+}
+.Time{
+    color: azure;
+    border-width: thick;
+    font-family:  'Arial Narrow';
+    margin-bottom: 4%;
+    padding-bottom: 5pt;
+}
+.Rashi{
+    color:beige;
+    border-width: bigger;
+    font-family: 'Franklin Gothic Medium',  Arial;
+    margin-bottom: 5%;
+    padding-inline: 6pt;
+}
+.Nakshatra{
+    color: bisque;
+    border-width: one dum;
+    font-family: 'Franklin Gothic Medium',  sans-serif;
+    margin-inline-start: 6%;
+    padding-inline-start: 7pt;
+}
+.Height {
+    color: black;
+    border-width: thin;
+    font-family: 'Arial Narrow', Arial;
+    margin-inline-end: 7%;
+    padding-block: 8pt;
+}
+
+.Marital_status {
+    color: blanchedalmond;
+    border: 4pt dotted; 
+    font-family: 'Arial Narrow', sans-serif;
+    margin-block-start: 8%;
+    padding-inline-end: 9pt
+}
+.Region{
+    color: blue;
+    border: 5pt groove;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-block-end: 9%;
+    padding-block-end: 10pt
+
+}
+.Mother_tongue{
+    color: blueviolet;
+    border:6pt inset;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    margin-inline: 10%;
+    padding-block-start: 1opt;
+}
+.Cast{
+    color:brown;
+    border:7pt outset;
+    font-family: 'Gill Sans',  Calibri;
+    margin-block: 11%;
+    scroll-padding: 11pt;
+}
+.Sub_cast{
+    color: burlywood;
+    border: 8pt none;
+    font-family: 'Gill Sans', 'Trebuchet MS';
+    margin-block: 12%;
+    scroll-padding: 12pt;
+}
+.Gotra{
+    color:cadetblue;
+    border:9pt hidden;
+    font-family: 'Gill San', sans-serif;
+    margin-inline: 13%;
+    padding-block-start: 13pt;
+}
+.Manshik{
+    color:chartreuse;
+    letter-spacing: normal;
+    text-align: left;
+    line-height: normal;
+    text-decoration:underline;
+    text-transform: lowercase;
+}
+.Complexion{
+    color: chocolate;
+    letter-spacing: 1pt;
+    text-align: unset;
+    line-height: 1pt;
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+.Higher_education{
+    color:coral;
+    letter-spacing: 2pt;
+    text-align:initial;
+    line-height: 2pt;
+    text-decoration: strike through;
+    text-transform: centre;
+}
+.College_name{
+    color: cornflowerblue;
+    letter-spacing: 3pt;
+    text-align: inherit;
+    line-height: 3pt;
+    text-decoration: wavy;
+    text-transform: capitalize;
+}
+.Organisation_name{
+    color: cornsilk;
+    letter-spacing: 4pt;
+    text-align:start;
+    line-height: 4pt;
+    text-decoration:underline;
+    text-transform: capitalize;
+}
+.Annual_income{
+    color: crimson;
+    letter-spacing: 5pt;
+    text-align: right;
+    line-height: 5pt;
+    text-decoration: solid;
+    text-transform: lowercase;
+}
+.Father_name{
+    color: currentColor;
+    border-style: dashed;
+    border-width: 6pt;
+    border-color: currentColor;
+}
+.Father_occupation{
+    color:cyan;
+    border-style:dotted;
+    border-width: 7pt thick;
+    border-color:cyan;
+}
+.Mother_name{
+    color:darkblue;
+    border-style:double;
+    border-width: 8pt thin;
+    border-color:darkblue;
+}
+.Mother_occupation{
+    color:darkcyan;
+    border-style:groove;
+    border-width: 9pt ;
+    border-color:darkcyan;
+}
+.Total_sisters/brothers{
+    color:darkgoldenrod;
+    border-style:hidden;
+    border-width: 10pt ;
+    border-color:darkgoldenrod;
+}
+.Total_sisters/brothers{
+    color:darkgray;
+    border-style:inherit;
+    border-width: 11pt ;
+    border-color:darkgray;
+}
+.Contact_no{
+    color: darkkhaki;
+    font-family: unset;
+    font-size: 12pt;
+    font-weight: unset;
+    font-style: unset;
+}
+.Father_Contact_no{
+    color:darkgreen;
+    font-family:initial;
+    font-size: 13pt;
+    font-weight:initial;
+    font-style:initial;
+}
+.Mather_Contact_no{
+    color:darkmagenta;
+    font-family:inherit;
+    font-size: 14pt;
+    font-weight:inherit;
+    font-style:inherit;
+}
+.Address{
+    color:darkolivegreen;
+    font-family:system-ui,;
+    font-size: 15pt;
+    font-weight:normal;
+    font-style:oblique;
+}
+.E-mail{
+    color:darkorange;
+    font-family:serif;
+    font-size: 16pt;
+    font-weight:lighter;
+    font-style:normal;
+}
+.Image{
+    color:darkorchid;
+    font-family:sans-serif;
+    font-size: 17pt;
+    font-weight:bolder;
+    font-style:italic;
+}
+
+
+
+
+
+
